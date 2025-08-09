@@ -13,4 +13,4 @@ while True:
     elif not os.path.exists('pvp.txt') and t == True:
         print("File not found.")
         t=False
-    time.sleep(2)
+
